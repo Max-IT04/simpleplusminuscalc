@@ -2,18 +2,6 @@ let num = 42 //number
 let firstName = 'Maksim' //string 
 const isProgrammer = true //boolean
 
-/* Can do 
-let $ = 'test'
-let $num = 42 
-let num$ = 42 
-let _ = 77
-let _num = 17 
-let num_ = 189 
-let first_name = 'Elena' // неправильное название переменной 
-let myNum = 34 // правильное название переменной 
-let num42 = 10 
-*/
-
 /* Restricted 
 let 42num = '11'
 let my-num = 1
