@@ -5,7 +5,6 @@ const isProgrammer = true //boolean
 /* Restricted 
 let 42num = '11'
 let my-num = 1
-let const false true function 
 */
 
 // firstName = 'Max' 
