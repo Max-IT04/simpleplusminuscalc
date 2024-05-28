@@ -2,8 +2,6 @@ let num = 42 //number
 let firstName = 'Maksim' //string 
 const isProgrammer = true //boolean
 
-/* Restricted */
-
 // firstName = 'Max' 
 // isProgrammer = false // error because of const 
 
