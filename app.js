@@ -5,8 +5,6 @@ const isProgrammer = true //boolean
 // firstName = 'Max' 
 // isProgrammer = false // error because of const 
 
-// console.log('Test:', firstName, num)
-
 /*console.log(num + 10)
 console.log(num - 10)
 console.log(num * 10)
